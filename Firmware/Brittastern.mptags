@@ -1,0 +1,109 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BOOLEAN::shortint	C:\Programme\PICC\Devices\16F84A.h	37;"	d	line:37
+BROWNOUT_RESTART::26	C:\Programme\PICC\Devices\16F84A.h	55;"	d	line:55
+BYTE::int	C:\Programme\PICC\Devices\16F84A.h	36;"	d	line:36
+CHANNEL_COUNT::5	C:\LokaleDaten\picprojects\brittastern\main.c	121;"	d	line:121	file:
+FALSE::0	C:\Programme\PICC\Devices\16F84A.h	33;"	d	line:33
+GLOBAL::0x0B80	C:\Programme\PICC\Devices\16F84A.h	105;"	d	line:105
+H_TO_L::0	C:\Programme\PICC\Devices\16F84A.h	103;"	d	line:103
+INT_EEPROM::0x0B40	C:\Programme\PICC\Devices\16F84A.h	109;"	d	line:109
+INT_EXT::0x0B10	C:\Programme\PICC\Devices\16F84A.h	108;"	d	line:108
+INT_RB::0x0B08	C:\Programme\PICC\Devices\16F84A.h	107;"	d	line:107
+INT_RTCC::0x0B20	C:\Programme\PICC\Devices\16F84A.h	106;"	d	line:106
+INT_TIMER0::0x0B20	C:\Programme\PICC\Devices\16F84A.h	110;"	d	line:110
+LAST_PROGRAM::4	C:\LokaleDaten\picprojects\brittastern\main.c	123;"	d	line:123	file:
+L_TO_H::0x40	C:\Programme\PICC\Devices\16F84A.h	102;"	d	line:102
+MCLR_FROM_RUN::27	C:\Programme\PICC\Devices\16F84A.h	53;"	d	line:53
+MCLR_FROM_SLEEP::16	C:\Programme\PICC\Devices\16F84A.h	52;"	d	line:52
+NORMAL_POWER_UP::27	C:\Programme\PICC\Devices\16F84A.h	54;"	d	line:54
+P02_STEPS::12	C:\LokaleDaten\picprojects\brittastern\main.c	227;"	d	line:227	file:
+P03_STEPS::5	C:\LokaleDaten\picprojects\brittastern\main.c	246;"	d	line:246	file:
+P04_STEPS::6	C:\LokaleDaten\picprojects\brittastern\main.c	277;"	d	line:277	file:
+PIN_A0::40	C:\Programme\PICC\Devices\16F84A.h	17;"	d	line:17
+PIN_A1::41	C:\Programme\PICC\Devices\16F84A.h	18;"	d	line:18
+PIN_A2::42	C:\Programme\PICC\Devices\16F84A.h	19;"	d	line:19
+PIN_A3::43	C:\Programme\PICC\Devices\16F84A.h	20;"	d	line:20
+PIN_A4::44	C:\Programme\PICC\Devices\16F84A.h	21;"	d	line:21
+PIN_B0::48	C:\Programme\PICC\Devices\16F84A.h	23;"	d	line:23
+PIN_B1::49	C:\Programme\PICC\Devices\16F84A.h	24;"	d	line:24
+PIN_B2::50	C:\Programme\PICC\Devices\16F84A.h	25;"	d	line:25
+PIN_B3::51	C:\Programme\PICC\Devices\16F84A.h	26;"	d	line:26
+PIN_B4::52	C:\Programme\PICC\Devices\16F84A.h	27;"	d	line:27
+PIN_B5::53	C:\Programme\PICC\Devices\16F84A.h	28;"	d	line:28
+PIN_B6::54	C:\Programme\PICC\Devices\16F84A.h	29;"	d	line:29
+PIN_B7::55	C:\Programme\PICC\Devices\16F84A.h	30;"	d	line:30
+PRESCALE_SET::20	C:\LokaleDaten\picprojects\brittastern\main.c	125;"	d	line:125	file:
+RTCC_8_BIT::0	C:\Programme\PICC\Devices\16F84A.h	78;"	d	line:78
+RTCC_DIV_128::6	C:\Programme\PICC\Devices\16F84A.h	74;"	d	line:74
+RTCC_DIV_16::3	C:\Programme\PICC\Devices\16F84A.h	71;"	d	line:71
+RTCC_DIV_1::8	C:\Programme\PICC\Devices\16F84A.h	67;"	d	line:67
+RTCC_DIV_256::7	C:\Programme\PICC\Devices\16F84A.h	75;"	d	line:75
+RTCC_DIV_2::0	C:\Programme\PICC\Devices\16F84A.h	68;"	d	line:68
+RTCC_DIV_32::4	C:\Programme\PICC\Devices\16F84A.h	72;"	d	line:72
+RTCC_DIV_4::1	C:\Programme\PICC\Devices\16F84A.h	69;"	d	line:69
+RTCC_DIV_64::5	C:\Programme\PICC\Devices\16F84A.h	73;"	d	line:73
+RTCC_DIV_8::2	C:\Programme\PICC\Devices\16F84A.h	70;"	d	line:70
+RTCC_EXT_H_TO_L::48	C:\Programme\PICC\Devices\16F84A.h	65;"	d	line:65
+RTCC_EXT_L_TO_H::32	C:\Programme\PICC\Devices\16F84A.h	64;"	d	line:64
+RTCC_INTERNAL::0	C:\Programme\PICC\Devices\16F84A.h	63;"	d	line:63
+TRUE::1	C:\Programme\PICC\Devices\16F84A.h	34;"	d	line:34
+WDT_1152MS::14	C:\Programme\PICC\Devices\16F84A.h	94;"	d	line:94
+WDT_144MS::11	C:\Programme\PICC\Devices\16F84A.h	91;"	d	line:91
+WDT_18MS::8	C:\Programme\PICC\Devices\16F84A.h	88;"	d	line:88
+WDT_2304MS::15	C:\Programme\PICC\Devices\16F84A.h	95;"	d	line:95
+WDT_288MS::12	C:\Programme\PICC\Devices\16F84A.h	92;"	d	line:92
+WDT_36MS::9	C:\Programme\PICC\Devices\16F84A.h	89;"	d	line:89
+WDT_576MS::13	C:\Programme\PICC\Devices\16F84A.h	93;"	d	line:93
+WDT_72MS::10	C:\Programme\PICC\Devices\16F84A.h	90;"	d	line:90
+WDT_FROM_SLEEP::3	C:\Programme\PICC\Devices\16F84A.h	50;"	d	line:50
+WDT_TIMEOUT::11	C:\Programme\PICC\Devices\16F84A.h	51;"	d	line:51
+XAN	C:\LokaleDaten\picprojects\brittastern\main.c	29;"	v	line:29
+XAUS	C:\LokaleDaten\picprojects\brittastern\main.c	23;"	v	line:23
+XAUSSEN	C:\LokaleDaten\picprojects\brittastern\main.c	35;"	v	line:35
+XFERN	C:\LokaleDaten\picprojects\brittastern\main.c	83;"	v	line:83
+XINNEN	C:\LokaleDaten\picprojects\brittastern\main.c	47;"	v	line:47
+XLINIE1	C:\LokaleDaten\picprojects\brittastern\main.c	89;"	v	line:89
+XLINIE2	C:\LokaleDaten\picprojects\brittastern\main.c	95;"	v	line:95
+XLINIE3	C:\LokaleDaten\picprojects\brittastern\main.c	101;"	v	line:101
+XLINIE4	C:\LokaleDaten\picprojects\brittastern\main.c	107;"	v	line:107
+XLINIE5	C:\LokaleDaten\picprojects\brittastern\main.c	113;"	v	line:113
+XMITTEGELB	C:\LokaleDaten\picprojects\brittastern\main.c	53;"	v	line:53
+XMITTEGRUEN	C:\LokaleDaten\picprojects\brittastern\main.c	59;"	v	line:59
+XMITTEROT	C:\LokaleDaten\picprojects\brittastern\main.c	65;"	v	line:65
+XREIHE_1	C:\LokaleDaten\picprojects\brittastern\main.c	11;"	v	line:11
+XREIHE_2	C:\LokaleDaten\picprojects\brittastern\main.c	17;"	v	line:17
+XSTERN	C:\LokaleDaten\picprojects\brittastern\main.c	41;"	v	line:41
+XSTERNGRUEN	C:\LokaleDaten\picprojects\brittastern\main.c	77;"	v	line:77
+XSTERNROT	C:\LokaleDaten\picprojects\brittastern\main.c	71;"	v	line:71
+displayloop	C:\LokaleDaten\picprojects\brittastern\main.c	299;"	f	line:299
+fetch	C:\LokaleDaten\picprojects\brittastern\main.c	136;"	f	line:136	signature:(int8 n, int8 operation)
+fgetc::getch	C:\Programme\PICC\Devices\16F84A.h	40;"	d	line:40
+fgets::gets	C:\Programme\PICC\Devices\16F84A.h	44;"	d	line:44
+fputc::putchar	C:\Programme\PICC\Devices\16F84A.h	43;"	d	line:43
+fputs::puts	C:\Programme\PICC\Devices\16F84A.h	45;"	d	line:45
+getc::getch	C:\Programme\PICC\Devices\16F84A.h	39;"	d	line:39
+getchar::getch	C:\Programme\PICC\Devices\16F84A.h	41;"	d	line:41
+i	C:\LokaleDaten\picprojects\brittastern\main.c	143;"	l	line:143
+init	C:\LokaleDaten\picprojects\brittastern\main.c	194;"	f	line:194
+last_step	C:\LokaleDaten\picprojects\brittastern\main.c	131;"	v	line:131
+main	C:\LokaleDaten\picprojects\brittastern\main.c	322;"	f	line:322
+mask	C:\LokaleDaten\picprojects\brittastern\main.c	129;"	v	line:129
+programcounter	C:\LokaleDaten\picprojects\brittastern\main.c	132;"	v	line:132
+programm00	C:\LokaleDaten\picprojects\brittastern\main.c	205;"	f	line:205
+programm01	C:\LokaleDaten\picprojects\brittastern\main.c	212;"	f	line:212
+programm02	C:\LokaleDaten\picprojects\brittastern\main.c	228;"	f	line:228
+programm03	C:\LokaleDaten\picprojects\brittastern\main.c	247;"	f	line:247
+programm04	C:\LokaleDaten\picprojects\brittastern\main.c	278;"	f	line:278
+putc::putchar	C:\Programme\PICC\Devices\16F84A.h	42;"	d	line:42
+segmentmask	C:\LokaleDaten\picprojects\brittastern\main.c	128;"	v	line:128
+stepcounter	C:\LokaleDaten\picprojects\brittastern\main.c	133;"	v	line:133
+stepprescale	C:\LokaleDaten\picprojects\brittastern\main.c	134;"	v	line:134
+ziffer	C:\LokaleDaten\picprojects\brittastern\main.c	324;"	l	line:324
+~	C:\LokaleDaten\picprojects\brittastern\main.c	335;"	p	line:335	file:	signature:(segmentmask[ziffer])
